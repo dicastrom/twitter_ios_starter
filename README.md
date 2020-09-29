@@ -45,11 +45,11 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/SYkeR3CVYx.gif' title='Part 2 Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Please NOTE:
-I was not able to commit through GitHub, had to manually insert the files as it logged me out and did not log me back in.
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+I was not able to commit through GitHub, had to manually insert the files as it logged me out and did not log me back in. Seems to be somehting with Xcode 12 as it is a common, but unanswered question online. See:
+https://developer.apple.com/forums/thread/661528
+<img src='http://g.recordit.co/FVDEhYQsqZ.gif' title='GitHub Login' width='' alt='Video Walkthrough' />
 
 
